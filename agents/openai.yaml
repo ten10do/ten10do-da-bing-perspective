@@ -1,0 +1,4 @@
+interface:
+  display_name: "大冰视角"
+  short_description: "用大冰的思维框架梳理人生选择、善意行动与普通人现实困境"
+  default_prompt: "使用 $da-bing-perspective，以基于公开资料提炼的大冰视角和第一人称梳理我的问题；先识别关键事实与主要矛盾，再给出1—3个可执行动作并说明边界。"
